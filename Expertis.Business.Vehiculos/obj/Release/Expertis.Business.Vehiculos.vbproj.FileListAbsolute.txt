@@ -1,0 +1,26 @@
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Release\Expertis.Business.ERP.Vehiculos.dll
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Release\Expertis.Business.ERP.Vehiculos.pdb
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Release\Expertis.Business.ERP.Vehiculos.xml
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.vbproj.GenerateResource.Cache
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Release\Expertis.Engine.OraDAL.dll
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Release\Expertis.Engine.UI.Design.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Vehiculos.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Vehiculos.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Vehiculos.xml
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.Resources.resources
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.dll
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.xml
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.pdb
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.xml
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.pdb
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.Resources.resources
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.vbproj.GenerateResource.Cache
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\ResolveAssemblyReference.cache
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.Resources.resources
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.vbproj.GenerateResource.Cache
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.xml
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.pdb

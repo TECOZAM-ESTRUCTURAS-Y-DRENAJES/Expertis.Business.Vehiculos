@@ -1,0 +1,68 @@
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Debug\Expertis.Engine.OraDAL.dll
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Debug\Expertis.Engine.UI.Design.dll
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.vbproj.GenerateResource.Cache
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.dll
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.pdb
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.xml
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.Resources.resources
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.dll
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.xml
+C:\Users\lgonzalez\AppData\Local\Temporary Projects\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.pdb
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.pdb
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.xml
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Engine.OraDAL.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Engine.UI.Design.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.Resources.resources
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.vbproj.GenerateResource.Cache
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.xml
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.pdb
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.General.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.BusinessEnum.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.General.XmlSerializers.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Application.ERP.CommonClasses.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Negocio.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Bodega.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.EMCS.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Ficheros.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Rules.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Financiero.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.CRM.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Obra.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Mnto.dll
+C:\Users\lgonzalez\Documents\Visual Studio 2008\Projects\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.EMCS.XmlSerializers.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.pdb
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Vehiculos.xml
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Application.ERP.CommonClasses.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.General.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Engine.OraDAL.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Negocio.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Bodega.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.EMCS.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.BusinessEnum.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Ficheros.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Rules.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Financiero.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.CRM.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Obra.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Mnto.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.ClasesTecozam.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Negocio.pdb
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.General.pdb
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Application.ERP.CommonClasses.pdb
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Financiero.pdb
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.Obra.pdb
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.ClasesTecozam.pdb
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.ClasesTecozam.xml
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.General.XmlSerializers.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\bin\Debug\Expertis.Business.EMCS.XmlSerializers.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\ResolveAssemblyReference.cache
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.Resources.resources
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.vbproj.GenerateResource.Cache
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.dll
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.xml
+C:\DES EXP5R2\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Debug\Expertis.Business.Vehiculos.pdb
