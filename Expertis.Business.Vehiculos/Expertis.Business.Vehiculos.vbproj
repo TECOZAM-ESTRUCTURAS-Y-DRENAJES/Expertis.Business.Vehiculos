@@ -74,8 +74,10 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Consumo.vb" />
     <Compile Include="Contratos.vb" />
     <Compile Include="Cuadrillas.vb" />
+    <Compile Include="EmpresaTipoPrecios.vb" />
     <Compile Include="EmpresaVehiculo.vb" />
     <Compile Include="Observaciones.vb" />
     <Compile Include="TipoVehiculo.vb" />
