@@ -28,7 +28,7 @@ Public Class Consumo
 
     Protected Overrides Sub RegisterUpdateTasks(ByVal updateProcess As Engine.BE.BusinessProcesses.Process)
         MyBase.RegisterUpdateTasks(updateProcess)
-        updateProcess.AddTask(Of DataRow)(AddressOf AsignarValoresPredeterminados)
+        'updateProcess.AddTask(Of DataRow)(AddressOf AsignarValoresPredeterminados)
     End Sub
 
 
