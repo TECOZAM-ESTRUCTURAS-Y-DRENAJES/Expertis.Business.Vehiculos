@@ -33,3 +33,9 @@ C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio
 C:\ExpertisNet50R2test\Bin\Expertis.Business.Vehiculos.dll
 C:\ExpertisNet50R2test\Bin\Expertis.Business.Vehiculos.pdb
 C:\ExpertisNet50R2test\Bin\Expertis.Business.Vehiculos.xml
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.Resources.resources
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.vbproj.GenerateResource.Cache
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.dll
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.xml
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.Vehiculos\Expertis.Business.Vehiculos\obj\Release\Expertis.Business.Vehiculos.pdb
